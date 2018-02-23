@@ -1,4 +1,0 @@
-$ git conifg --global user.name
-Leon Kerswell
-$ git config --global user.email
-leon@github.com
